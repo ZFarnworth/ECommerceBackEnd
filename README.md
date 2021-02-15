@@ -18,6 +18,8 @@ Repository Link: https://github.com/ZFarnworth/ECommerceBackEnd
 
 ## Video Demo
 
+https://drive.google.com/file/d/166smb8p1p2xfcH7goF0ex-0GBT-NuFIq/view?usp=sharing
+
 ## Installation
 
 1. Start your MySQL server, source the schema.sql file by entering "source db/schema.sql" to create the ecommerce_db database. Confirm that the database was created by typing "show databases" into the MySQL server. Once you've confirmed that the database was created, type "exit" to exit your MySQL server.
