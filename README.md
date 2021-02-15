@@ -1,7 +1,5 @@
 # E-commerce Back End
 
-# Ecommerce Back End ![MIT Badge](https://github.com/ZFarnworth/ECommerceBackEnd)
-
 ## Links
 
 Repository Link: https://github.com/ZFarnworth/ECommerceBackEnd
