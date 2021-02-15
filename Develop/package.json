@@ -1,5 +1,5 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "eCommerceBackEnd",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -11,13 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "https://github.com/ZFarnworth/ECommerceBackEnd"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^2.0.3"
+    "nodemon": "^2.0.3",
+    "lodash": ">=4.17.19"
   },
   "dependencies": {
     "dotenv": "^8.2.0",
